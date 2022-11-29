@@ -10,5 +10,3 @@ revert방식은 reset처럼 현재 버전을 삭제하는 것이 아니라 만�
 입력을 하고 enter를 치면 우리가 마지막에 입력했던 파일이 삭제 된 것을 볼 수있다. 
 추가적으로 가장 처음 commit했던 버전으로 돌아가 보자.
 
-이번에는 Add geroge to tigers로 revert를 활용해서 돌아가 보자.
-git revert 되돌릿 커밋 해시 를 입력해주면 된다.
